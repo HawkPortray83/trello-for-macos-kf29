@@ -1,4 +1,4 @@
-#  
+#  Enhance Trello for macOS with exclusive Automation for Trello for macOS - database templates and multi-device sync, the #1 automation. Includes database templates and multi-device
 
 
 
